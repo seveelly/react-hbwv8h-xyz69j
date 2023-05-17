@@ -1,0 +1,27 @@
+{
+  "name": "pktvut--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "21.2.3",
+    "@syncfusion/ej2-pdfviewer": "21.2.5",
+    "@syncfusion/ej2-react-base": "21.2.3",
+    "@syncfusion/ej2-react-pdfviewer": "21.2.5",
+    "@syncfusion/ej2-lists": "21.2.3",
+    "@syncfusion/ej2-documenteditor": "21.2.5",
+    "@syncfusion/ej2-buttons": "21.2.5",
+    "@syncfusion/ej2-splitbuttons": "21.2.5",
+    "@syncfusion/ej2-navigations": "21.2.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
